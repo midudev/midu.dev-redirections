@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["www.midudev.com", "www.midu.dev"],
+  "alias": ["www.midudev.com", "www.midu.dev", "midudev.com"],
   "routes": [
     {
       "src": "/(.*)",

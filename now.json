@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": ["www.midudev.com", "www.midu.dev"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://midudev.com/$1" }
+    }
+  ]
+}

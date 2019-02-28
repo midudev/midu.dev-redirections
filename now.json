@@ -5,7 +5,7 @@
     {
       "src": "/(.*)",
       "status": 301,
-      "headers": { "Location": "https://midudev.com/$1" }
+      "headers": { "Location": "https://midu.dev/$1" }
     }
   ]
 }
